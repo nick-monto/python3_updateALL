@@ -1,4 +1,4 @@
-# python3_updateALL
+# pythuntu_updateALL
 Short script to update both ubuntu linux and python packages downloaded via pip
 
 Now you can update everything at once, which probably isn't a good idea!
